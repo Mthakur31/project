@@ -1,0 +1,27 @@
+.pmain {
+  left: 3rem;
+  padding: 0.5rem;
+  border-radius: 9999px;
+  width: 8rem;
+  position: relative;
+  background-color: #1e1e2f;
+  height: 100%;
+}
+
+.pimg {
+  width: 7rem;
+  height: 8rem;
+  border-radius: 9999px;
+}
+
+.ptext {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: bold;
+}

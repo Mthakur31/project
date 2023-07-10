@@ -1,0 +1,25 @@
+.fmain{
+    font-size: 0.875rem;
+    line-height: 1.25rem; 
+    opacity: 0.9;
+    padding-top: 5rem;
+}
+
+.ch{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.sc{
+    font-weight: bold;
+}
+
+.fm{
+    font-weight: 700; 
+    color: #f59e0b;
+}
+
+

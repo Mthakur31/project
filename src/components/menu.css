@@ -1,0 +1,25 @@
+.rmain{
+    display: flex;
+}
+
+.micons{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem; 
+    align-items: center; 
+    opacity: 0.6; 
+    display: flex;
+    cursor: pointer;
+}
+
+.micons:hover{
+    opacity: 1; 
+} 
+
+.rm2{
+    margin-right: 0.5rem;
+}
+
+.sp:hover{
+    --transform-scale-x: 1.25;
+    --transform-scale-y: 1.25; 
+}

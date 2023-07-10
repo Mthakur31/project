@@ -1,0 +1,19 @@
+.smain{
+    justify-content: center; 
+    align-content: center; 
+    text-align: center; 
+    display: flex;
+    flex-direction: row;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+    padding-bottom: 1rem;
+}
+
+.sicons{
+    overflow: hidden; 
+    padding: 0.5rem; 
+    border-radius: 9999px; 
+    background-color: #1e1e2f;
+    position: relative;
+
+}

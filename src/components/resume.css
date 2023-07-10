@@ -1,0 +1,13 @@
+.main{
+    display: flex; 
+    overflow: hidden;
+    background-color: #1e1e2f;
+    font-family: Mullish, sans-serif; 
+    padding-top: 2rem; 
+    padding-left: 2rem; 
+    flex-direction: row; 
+    gap: 0.5rem; 
+    justify-content: space-between; 
+    height: 100vh; 
+    color: #fff;
+}
